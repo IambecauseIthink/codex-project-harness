@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.harness/runtime/
+.harness/worktrees/
+.cache/
+test-results/
+playwright-report/
+*.tgz
+.DS_Store
+
+# 本工具仓库的本机接入状态；目标产品项目的长期记录仍应纳入其 Git。
+/.harness/
+/.codex/config.toml
+.env
+.env.*
+!.env.example

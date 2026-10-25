@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-25T10:49:34.940Z",
+  "passed": true,
+  "version": "0.1.0",
+  "source": "local npm tarball",
+  "installedRuntime": true,
+  "backgroundService": true,
+  "apiStatus": 200,
+  "uiAssetStatus": 200,
+  "buildIndexDigest": "b73218a4e28e3823d23868c0c965f7dcbdae32bc7211c691ab9945d67af7da09",
+  "tokensIncluded": false
+}

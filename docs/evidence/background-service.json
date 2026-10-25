@@ -1,0 +1,11 @@
+{
+  "at": "2026-10-25T10:46:39.952Z",
+  "passed": true,
+  "checks": [
+    "detached process stays alive",
+    "duplicate start reuses service",
+    "stop preserves project",
+    "restart reloads project"
+  ],
+  "tokensIncluded": false
+}

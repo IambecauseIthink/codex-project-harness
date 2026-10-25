@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-25T10:47:09.531Z",
+  "simulatedDays": 730,
+  "tasks": 7300,
+  "knowledgeRecords": 1460,
+  "seededMs": 22607,
+  "snapshotMs": 1464,
+  "coldStartMs": 1313,
+  "graphBrowserVerified": true,
+  "contextChars": 677,
+  "activeTaskCount": 11,
+  "note": "模拟规模数据；不能证明实际连续运行两年可靠。"
+}
